@@ -7,7 +7,6 @@
 	top:0;
 	left:0;
 	background: rgba ( 33, 33, 33, 0.6 );
-	background: url('../images/ie.png');
 	z-index: 100000;
 }
 
@@ -31,7 +30,7 @@
 	margin: 10px;
 }
 
-#confirmBox h6 {
+#choiceBox h6 {
 	background-color: cornflowerblue;
 	margin: 3px;
 	border-radius: 3px;
